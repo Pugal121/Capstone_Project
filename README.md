@@ -50,3 +50,8 @@ AWS (EC2 Console, SG configs)
 Docker Hub repo with image tags
 Deployed site page
 Monitoring health check status
+
+####################################################################################################
+More detail Images related to this project: 
+https://1drv.ms/f/c/79c039eedd7a728b/EgxlYKgNaY5DhYAjxu9dOPEBfomg9obmmanGrydwb-Lt8Q?e=sozKoB
+
